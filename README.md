@@ -62,7 +62,7 @@ _In our case, we will use this one **workflow** file for many things, which lead
 
 Read more about [workflows](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#choosing-the-type-of-actions-for-your-workflow)
 
-<details id=1 open>
+<details id=1>
 
 <summary><h2> Step 1: Initialize a new JavaScript project</h2></summary>
 
@@ -130,7 +130,7 @@ Once you have the necessary tools installed locally, follow these steps to begin
 
 </details>
   
-<details id=2>
+<details id=2 open>
 <summary><h2> Step 2: Configure Your Action</h2></summary>
 
 ### Excellent!

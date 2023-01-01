@@ -1,0 +1,25 @@
+{
+  "name": "writing-javascript-actions",
+  "version": "1.0.0",
+  "description": "<!--   <<< Author notes: Header of the course >>>   Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.   Next to \"About\", add description & tags; disable releases, packages, & environments.   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International. -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santoshyadavdev/writing-javascript-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santoshyadavdev/writing-javascript-actions/issues"
+  },
+  "homepage": "https://github.com/santoshyadavdev/writing-javascript-actions#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
